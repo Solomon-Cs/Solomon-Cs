@@ -48,7 +48,6 @@ I contribute to building scalable e-commerce platforms and efficient content man
 [![](https://visitcount.itsvg.in/api?id=Solomon-Cs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-shiferaw-b45884258) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solomonshiferaw860@gmail.com)  
+## Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-shiferaw-b45884258) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solomonshiferaw860@gmail.com)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
