@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 🚀 **Software Developer** skilled in **Next.js, React.js, Redux Toolkit, React Query, TypeScript, and Tailwind CSS**. Passionate about building fast, scalable, and user-friendly web applications.  
 
-
-🚀 **Front-end Developer at Kachamale Technologies**  
+<br>
+🏢  **Front-end Developer at Kachamale Technologies**  
 I contribute to building scalable e-commerce platforms and efficient content management systems, focusing on performance, usability, and seamless user experience.
 
 
