@@ -18,11 +18,7 @@ Here are some ideas to get you started:
   <h1>Hi there! 👋 I'm Solomon Shiferaw</h1>
 </p>
 
-<br><br>
-
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-shiferaw-b45884258) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solomonshiferaw860@gmail.com)  
+<br>
 
 
 🚀 **Software Developer** skilled in **Next.js, React.js, Redux Toolkit, React Query, TypeScript, and Tailwind CSS**. Passionate about building fast, scalable, and user-friendly web applications.  
@@ -49,5 +45,9 @@ I contribute to building scalable e-commerce platforms and efficient content man
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Solomon-Cs&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-shiferaw-b45884258) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solomonshiferaw860@gmail.com)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
