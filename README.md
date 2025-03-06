@@ -14,42 +14,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! 👋 I'm Solomon Shiferaw
-🚀 Software Developer skilled in Next.js, React.js, Redux, TypeScript, Tailwind CSS, and Node.js. Passionate about building scalable web applications and improving user experiences.
+# Hi there! 👋 I'm Solomon Shiferaw  
 
-🌱 About Me
-🔭 I’m currently working on a Shopee-style e-commerce app using Next.js 15, NestJS, and PostgreSQL.
-🌱 I’m currently learning backend development with NestJS and database management with PostgreSQL.
-👯 I’m looking to collaborate on open-source projects, SaaS applications, and innovative startups.
-🤔 I’m looking for help with optimizing performance in large-scale applications and microservices architecture.
-💬 Ask me about Next.js, React.js, Redux Toolkit, Tailwind CSS, and API integrations.
-📫 How to reach me: LinkedIn | Twitter | Email
-😄 Pronouns: He/Him
-⚡ Fun fact: I love solving complex problems and debugging is my superpower!
-🔥 Tech Stack
-Frontend: Next.js, React.js, Redux, Tailwind CSS, Material UI, Mantine
-Backend: NestJS, Node.js, Express.js
-Database: PostgreSQL, MongoDB
-Tools & DevOps: Vercel, Docker, Git, GitHub Actions
+🚀 **Front-end Developer** skilled in **Next.js, React.js, Redux Toolkit, React Query, TypeScript, and Tailwind CSS**. Passionate about building fast, scalable, and user-friendly web applications.  
 
+## 🌱 About Me  
+- 🔭 I’m currently working on an **e-commerce app** using **Next.js 15 and Tailwind CSS**.  
+- 🌱 I’m currently learning **advanced front-end architecture, performance optimization, and backend development with Node.js, Express.js, and NestJS with PostgreSQL**.  
+- 👯 I’m looking to collaborate on **open-source projects and innovative front-end solutions**.  
+- 🤔 I’m looking for help with **best practices in state management and large-scale React applications**.  
+- 💬 Ask me about **Next.js, React.js, Redux Toolkit, and Tailwind CSS**.  
+- 📫 How to reach me: **[LinkedIn](#) | [Twitter](#) | [Email](#)**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: **I enjoy turning complex designs into smooth, interactive UIs!**  
 
-Hi there! 👋 I'm Solomon Shiferaw
-🚀 Software Developer skilled in Next.js, React.js, Redux Toolkit, React Query, TypeScript, and Tailwind CSS. Passionate about building fast, scalable, and user-friendly web applications.
+---
 
-🌱 About Me
-🔭 I’m currently working on a e-commerce app using Next.js 15 and Tailwind CSS.
-🌱 I’m currently learning advanced front-end architecture, performance optimization, and backend development with Node js, Express js and NestJS with PostgreSQL.
-👯 I’m looking to collaborate on open-source projects and innovative front-end solutions.
-🤔 I’m looking for help with best practices in state management and large-scale React applications.
-💬 Ask me about Next.js, React.js, Redux Toolkit, and Tailwind CSS.
-📫 How to reach me: LinkedIn | Twitter | Email
-😄 Pronouns: He/Him
-⚡ Fun fact: I enjoy turning complex designs into smooth, interactive UIs!
-🔥 Tech Stack
-Frontend: Next.js, React.js, Redux Toolkit
-Styling: Tailwind CSS, Material UI, Mantine
-Backend (Learning): Node js, Express js and NestJS with PostgreSQL
-Tools & DevOps: Vercel, Git, GitHub
+## 🔥 Tech Stack  
+
+### Frontend  
+- **Frameworks & Libraries:** Next.js, React.js, Redux Toolkit, React Query  
+- **Styling:** Tailwind CSS, Material UI, Mantine  
+
+### Backend (Learning)  
+- **Technologies:** Node.js, Express.js, NestJS, PostgreSQL  
+
+### Tools & DevOps  
+- **Platforms:** Vercel, Git, GitHub  
+
+---
 
 
 ## 🌐 Socials:
