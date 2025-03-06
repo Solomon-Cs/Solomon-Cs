@@ -16,37 +16,25 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Solomon Shiferaw  
 
-🚀 **Front-end Developer** skilled in **Next.js, React.js, Redux Toolkit, React Query, TypeScript, and Tailwind CSS**. Passionate about building fast, scalable, and user-friendly web applications.  
+
+
+## Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/solomon-shiferaw-b45884258) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solomonshiferaw860@gmail.com) 
+
+
+🚀 **Software Developer** skilled in **Next.js, React.js, Redux Toolkit, React Query, TypeScript, and Tailwind CSS**. Passionate about building fast, scalable, and user-friendly web applications.  
+
+
+🚀 **Front-end Developer at Kachamale Technologies**  
+I contribute to building scalable e-commerce platforms and efficient content management systems, focusing on performance, usability, and seamless user experience.
+
 
 ## 🌱 About Me  
 - 🔭 I’m currently working on an **e-commerce app** using **Next.js 15 and Tailwind CSS**.  
 - 🌱 I’m currently learning **advanced front-end architecture, performance optimization, and backend development with Node.js, Express.js, and NestJS with PostgreSQL**.  
 - 👯 I’m looking to collaborate on **open-source projects and innovative front-end solutions**.  
-- 🤔 I’m looking for help with **best practices in state management and large-scale React applications**.  
 - 💬 Ask me about **Next.js, React.js, Redux Toolkit, and Tailwind CSS**.  
-- 📫 How to reach me: **[LinkedIn](#) | [Twitter](#) | [Email](#)**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I enjoy turning complex designs into smooth, interactive UIs!**  
 
 ---
-
-## 🔥 Tech Stack  
-
-### Frontend  
-- **Frameworks & Libraries:** Next.js, React.js, Redux Toolkit, React Query  
-- **Styling:** Tailwind CSS, Material UI, Mantine  
-
-### Backend (Learning)  
-- **Technologies:** Node.js, Express.js, NestJS, PostgreSQL  
-
-### Tools & DevOps  
-- **Platforms:** Vercel, Git, GitHub  
-
----
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/solomon-shiferaw-b45884258) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solomonshiferaw860@gmail.com) 
 
 # Skils:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
